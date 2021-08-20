@@ -15,16 +15,16 @@ I'm working as a Data Scientist since 3 years which involves machine learning pr
 
 ### 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗦𝘁𝗮𝗰𝗸 :
 
-𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀/𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: Python, NumPy, Pandas, Scikit-learn, Tensorflow
+𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀/𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: Python, R, NumPy, Pandas, Scikit-learn, Tensorflow, OpenCV
 
-𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲/𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: SQL, HTML/CSS
+𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲/𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: SQL, MongoDB, HTML/CSS, Django
 
-𝗧𝗼𝗼𝗹𝘀: Git, Postman, Jupyter Notebooks
+𝗧𝗼𝗼𝗹𝘀: Git, Postman, Tableau
 
 --------------------------------------------------
 ### 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗗𝗲𝘁𝗮𝗶𝗹𝘀 :
 
-<img src="https://img.icons8.com/fluent/25/000000/linkedin.png" style="width: 0.1rem; height: 0.1rem"/> : https://www.linkedin.com/in/lila-srinivas-reddy-b150226a/
+<img src="https://img.icons8.com/fluent/25/000000/linkedin.png" style="width: 0.01rem; height: 0.01rem"/> : https://www.linkedin.com/in/lila-srinivas-reddy-b150226a/
 
 ✉ : lilasrinivasreddy@gmail.com
 
