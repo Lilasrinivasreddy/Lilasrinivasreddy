@@ -15,7 +15,7 @@ I'm working as a Data Scientist since 3 years which involves machine learning pr
 
 ### 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗦𝘁𝗮𝗰𝗸 :
 
-𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀/𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: Angular, Django, Python, NumPy, Pandas, Scikit-learn, Tensorflow
+𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀/𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: Python, NumPy, Pandas, Scikit-learn, Tensorflow
 
 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲/𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: SQL, HTML/CSS
 
