@@ -2,7 +2,7 @@
 
 --------------------------------------------------
 
-<h4 align="center" justify-content ="space-around"> Data Scientist || AI Enthusiast || Crypto-Economist</h4>
+<h4 align="center" justify-content ="space-around"> Data Scientist || AI Enthusiast</h4>
 
 --------------------------------------------------
 
