@@ -6,10 +6,10 @@
 
 --------------------------------------------------
 
-### About
+## About :
 
 ✅ 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 :
-I'm working as a Data Science professional with 3 years of work experience which involves machine learning projects based on Classification, Regression, Time Series Data, Recommendation systems, and Convolutional Neural Networks. I have done extensive data analysis and derived impactful business insights while working on these problems, which makes me an eligible Data professional.
+I'm working as a Data Science professional with 3 years of work experience which involves machine learning projects based on Classification, Regression, Time Series Data, Recommendation systems, Opencv and AWS Cloud. I have done extensive data analysis and derived impactful business insights while working on these problems, which makes me an eligible Data professional.
 
 --------------------------------------------------
 
