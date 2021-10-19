@@ -22,7 +22,7 @@ I'm working as a Data Science professional with 3 years of work experience which
 𝗧𝗼𝗼𝗹𝘀: Git, Postman, Tableau
 
 --------------------------------------------------
-## 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗗𝗲𝘁𝗮𝗶𝗹𝘀
+## 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗗𝗲𝘁𝗮𝗶𝗹𝘀 📞
 
 <img src="https://img.icons8.com/fluent/25/000000/linkedin.png" style="width: 0.01rem; height: 0.01rem"/> : https://www.linkedin.com/in/lila-srinivas-reddy-b150226a/
 
