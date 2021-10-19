@@ -4,11 +4,8 @@
 
 <h4 align="center" justify-content ="space-around"> Data Scientist || AI Enthusiast</h4>
 
-![](https://lilasrinivasreddy.com/ghpvc/?username=your-github-username)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
-
+                              ![](https://lilasrinivasreddy.com/ghpvc/?username=your-github-username)
+<!--                               ![](https://komarev.com/ghpvc/?username=your-github-username&color=green) -->
 
 --------------------------------------------------
 
