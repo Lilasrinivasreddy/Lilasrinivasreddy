@@ -3,7 +3,7 @@
 --------------------------------------------------
 
 <h4 align="center" justify-content ="space-around"> Data Scientist || AI Enthusiast</h4>
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align='center'>:wave:</h1>
 <p align='center'>
 
 ![Visitor Count](https://profile-counter.glitch.me/{Lilasrinivasreddy}/count.svg)
