@@ -3,10 +3,11 @@
 --------------------------------------------------
 
 <h4 align="center" justify-content ="space-around"> Data Scientist || AI Enthusiast</h4>
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
 
-![](https://lilasrinivasreddy.com/ghpvc/?username=your-github-username)
-![](https://lilasrinivasreddy.com/ghpvc/?username=your-github-username&color=green)
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![Visitor Count](https://profile-counter.glitch.me/{Lilasrinivasreddy}/count.svg)
+
 --------------------------------------------------
 
 ## About me 😁 
@@ -34,3 +35,6 @@ I'm working as a Data Science professional with 3 years of work experience which
 📞 : +91 9177587855
 
 --------------------------------------------------
+<h1 align='center'><i>Stay awesome!</i></h1>
+
+</p>
