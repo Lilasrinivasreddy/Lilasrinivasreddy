@@ -1,4 +1,5 @@
 <h1 align="center"> Lila Srinivas Reddy </h1>
+<img align="right" alt="GIF" src="https://github.com/Lilasrinivasreddy/Lilasrinivasreddy/blob/main/demo.gif" width="300"/>
 
 --------------------------------------------------
 
