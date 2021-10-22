@@ -7,13 +7,13 @@
 <h1 align='center'>:wave:</h1>
 <p align='center'>
 
-![Visitor Count](https://profile-counter.glitch.me/{Lilasrinivasreddy}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{Lilasrinivasreddy}/count.svg)
 
 --------------------------------------------------
 
 ## About me 😁 
 
-✅ 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 👋:
+✅ 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁:
 I'm working as a Data Science professional with 3 years of work experience which involves machine learning projects based on Classification, Regression, Time Series Data, Recommendation systems, Opencv and AWS Cloud. I have done extensive data analysis and derived impactful business insights while working on these problems, which makes me an eligible Data professional.
 
 --------------------------------------------------
@@ -27,7 +27,7 @@ I'm working as a Data Science professional with 3 years of work experience which
 𝗧𝗼𝗼𝗹𝘀: Git, Postman, Tableau
 
 --------------------------------------------------
-## 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗗𝗲𝘁𝗮𝗶𝗹𝘀 📞
+## Contact Details 📞
 
 <img src="https://img.icons8.com/fluent/25/000000/linkedin.png" style="width: 0.01rem; height: 0.01rem"/> : https://www.linkedin.com/in/lila-srinivas-reddy-b150226a/
 
