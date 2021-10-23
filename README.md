@@ -1,11 +1,11 @@
-<h1 align="center"> Lila Srinivas Reddy </h1>
-<img align="right" alt="GIF" src="https://github.com/Lilasrinivasreddy/Lilasrinivasreddy/blob/main/demo.gif" width="300"/>
+<h1 align="left"> Lila Srinivas Reddy </h1>
+<img align="right" alt="GIF" src="https://github.com/Lilasrinivasreddy/Lilasrinivasreddy/blob/main/demo.gif" width="500"/>
 
 --------------------------------------------------
 
-<h4 align="center" justify-content ="space-around"> Data Scientist || AI Enthusiast</h4>
-<h1 align='center'>:wave:</h1>
-<p align='center'>
+<h4 align="left" justify-content ="space-around"> Data Scientist || AI Enthusiast</h4>
+<h1 align='left'>:wave:</h1>
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{Lilasrinivasreddy}/count.svg)
 
