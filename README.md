@@ -59,7 +59,7 @@ I'm working as a Data Science professional with 3 years of work experience which
 
 - 🤝 I’m looking for opportunities in **Deep learning and Computer vision**
 
-- 📝 I wrote an article about steps to follow for becoming a Data Scientist on [Medium](https://medium.com/@lilasrinivasreddy)
+- 📝 I wrote an article about a guide to follow for becoming a Data Science expert on [Medium](https://medium.com/@lilasrinivasreddy)
 
 --------------------------------------------------
 ## My statistics 📈:
