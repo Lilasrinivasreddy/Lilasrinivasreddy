@@ -47,7 +47,21 @@ I'm working as a Data Science professional with 3 years of work experience which
 
 📞 : +91 9177587855
   
---------------------------------------------------  
+--------------------------------------------------
+## Interests 📝:
+
+
+- 🌱 I’m currently learning **MLOPS and Computer vision**
+
+- 💬 Ask me about **DL,Conversational-AI,OpenCV,Machine learning,AWS**
+
+- 👯 I’m looking to collaborate on **Machine learnign/DL and Computer vision Projects**
+
+- 🤝 I’m looking for opportunities in **Deep learning and Computer vision**
+
+- 📝 I wrote an article about steps to follow for becoming a Data Scientist on [Medium](https://medium.com/@lilasrinivasreddy)
+
+--------------------------------------------------
 ## My statistics 📈:
 <a href = "">
    <img align="center" height='165px' src="https://github-readme-stats.vercel.app/api?username=Lilasrinivasreddy&count_private=true&show_icons=true&theme=buefy" />
