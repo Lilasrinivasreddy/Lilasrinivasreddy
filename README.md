@@ -64,11 +64,11 @@ I'm working as a Data Science professional with 3 years of work experience which
 --------------------------------------------------
 ## My statistics 📈:
 <a href = "">
-   <img align="center" height='165px' src="https://github-readme-stats.vercel.app/api?username=Lilasrinivasreddy&count_private=true&show_icons=true&theme=buefy" />
+  <img align="center" height='165px' src="https://github-readme-stats.vercel.app/api?username=Lilasrinivasreddy&count_private=true&show_icons=true&theme=buefy" />
 </a>
   
 <a href = "">
-   <img align="center" height='165px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilasrinivasreddy&langs_count=4&layout=compact&theme=buefy" />
+  <img align="center" height='165px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilasrinivasreddy&langs_count=4&layout=compact&theme=buefy" />
  </a>
 
 --------------------------------------------------
