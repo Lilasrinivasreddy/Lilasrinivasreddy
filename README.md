@@ -51,13 +51,13 @@ I'm working as a Data Science professional with 3 years of work experience which
 ## Interests 📝:
 
 
-- 🌱 I’m currently learning **MLOPS and Computer vision**
+- 🌱 I’m currently learning **MLOPS and Data engineering(Big data)**
 
 - 💬 Ask me about **DL,Conversational-AI,OpenCV,Machine learning,AWS**
 
-- 👯 I’m looking to collaborate on **Machine learnign/DL and Computer vision Projects**
+- 👯 I’m looking to collaborate on **ML/DL and Computer vision Projects**
 
-- 🤝 I’m looking for opportunities in **Deep learning and Computer vision**
+- 🤝 I’m looking for opportunities in **ML/DL and Computer vision**
 
 - 📝 I wrote an article about a guide to follow for becoming a Data Science expert on [Medium](https://medium.com/@lilasrinivasreddy)
 
