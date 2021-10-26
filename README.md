@@ -68,7 +68,7 @@ I'm working as a Data Science professional with 3 years of work experience which
 </a>
   
 <a href = "">
-    <img align="center" height='165px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilasrinivasreddy&langs_count=4&exclude_repo=Kaggle-NYC-Taxi-Trip-Duration&layout=compact&theme=buefy" />
+   <img align="center" height='165px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilasrinivasreddy&langs_count=4&theme=buefy" />
  </a>
 
 --------------------------------------------------
