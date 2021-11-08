@@ -14,7 +14,7 @@
 ## About me 👔: 
 
 ✅ 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁:
-I'm working as a Data Science professional which involves machine learning projects based on Classification, Regression, Time Series Data, Recommendation systems, Opencv and AWS Cloud. I have done extensive data analysis and derived impactful business insights while working on these problems, which makes me an eligible Data professional.
+I'm working as a Data Science professional which involves machine learning projects based on Classification, Regression, Time Series Data, Recommendation systems, NLP(text), Opencv and AWS Cloud. I have done extensive data analysis and derived impactful business insights while working on these problems, which makes me an eligible Data professional.
 
 --------------------------------------------------
 
@@ -36,27 +36,15 @@ I'm working as a Data Science professional which involves machine learning proje
 <br />
 <br />
 
-
-  
---------------------------------------------------
-## Contact Details 📞:
-
-<img src="https://img.icons8.com/fluent/25/000000/linkedin.png" style="width: 0.01rem; height: 0.01rem"/> : https://www.linkedin.com/in/lila-srinivas-reddy-b150226a/
-
-✉ : lilasrinivasreddy@gmail.com
-
-📞 : +91 9177587855
   
 --------------------------------------------------
 ## Interests 📝:
 
-- 🌱 I’m currently learning **MLOPS and Data engineering(Big data)**
+- 🌱 I’m currently learning **MLOPS and Data engineering(Big-data)**
 
-- 💬 Ask me about **DL,Conversational-AI,OpenCV,Machine learning,AWS**
+- 💬 Ask me about **Machine learning, NLP, DL, Conversational-AI,OpenCV & Cloud**
 
-- 👯 I’m looking to collaborate on **ML/DL and Computer vision Projects**
-
-- 🤝 I’m looking for opportunities in **ML/DL and Computer vision**
+- 🤝 I’m looking to collaborate on **ML/DL and Computer vision Projects**
 
 - 📝 I wrote an article about a guide to follow for becoming a Data Science expert on [Medium](https://medium.com/@lilasrinivasreddy)
 
@@ -69,8 +57,17 @@ I'm working as a Data Science professional which involves machine learning proje
 <a href = "">
   <img align="center" height='160px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilasrinivasreddy&langs_count=4&layout=compact&theme=buefy" />
  </a>
-
+ 
 --------------------------------------------------
+## Contact Details 📞:
+
+<img src="https://img.icons8.com/fluent/25/000000/linkedin.png" style="width: 0.01rem; height: 0.01rem"/> : https://www.linkedin.com/in/lila-srinivas-reddy-b150226a/
+
+✉ : lilasrinivasreddy@gmail.com
+
+📞 : +91 9177587855
+--------------------------------------------------
+
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 </p>
